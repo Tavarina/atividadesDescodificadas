@@ -1,0 +1,30 @@
+div {
+    height: 400px;
+    width: 400px;
+    border-width: 20px;
+    border-style: solid;
+    border-color: #a3fe;
+    
+    background-image: url(assets/img/flor.avif);
+    /* text-align: center; */
+    box-shadow: inset 20px 2px 33px 9px red;
+    background-size: cover;
+
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 100px;
+
+    outline-width: 20px;
+    outline-style: double;
+    outline-color: #7b0951ee;
+
+    
+}
+p {
+    padding-top: 100px;
+    font-style: italic;
+    font-size: 50px;
+    color: #ffe200 ;
+    font-weight: bold;
+    text-align: center;
+}
